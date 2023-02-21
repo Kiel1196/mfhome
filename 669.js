@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhome=self.webpackChunkhome||[]).push([[669],{669:(e,t,l)=>{l.r(t),l.d(t,{default:()=>u});var n=l(950),o=l.n(n);function u(){return o().createElement("div",{className:"p-5 bg-blue-500 text-white text-3xl font-bold"},"Hello Footer")}}}]);

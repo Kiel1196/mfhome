@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhome=self.webpackChunkhome||[]).push([[102],{102:(e,t,l)=>{l.r(t),l.d(t,{default:()=>u});var a=l(950),n=l.n(a);function u(){return n().createElement("div",{className:"p-5 bg-blue-500 text-white text-3xl font-bold"},"Hello Header")}}}]);
